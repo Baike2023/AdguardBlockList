@@ -11,3 +11,4 @@
 ! Number of entries: 1
 !
 @@||baidu.com^$important
+@@||sites.google.com^$important
