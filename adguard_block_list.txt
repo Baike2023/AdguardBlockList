@@ -5,10 +5,10 @@
 ! License: 
 ! Issues: 
 ! Expires: 1 day
-! Last modified: 31 May 2024 22:13 UTC
+! Last modified: 05 Nov 2024 22:13 UTC
 ! Version: 2024.0531.2213.10
 ! Syntax: AdBlock
-! Number of entries: 9
+! Number of entries: 10
 !
 ||jmtforever.cfd^
 ||typeist.*^
@@ -19,3 +19,4 @@
 ||gearcalculator.lat^
 ||leveltengyatt.lat^
 ||startpage.com^
+||tunnel.googlezip.net^
